@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "源码阅读学习/Jackson/Jackson源码阅读.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Jackson源码阅读 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d028e77cea5727e4",
+  "active": "16819d36f0500dc9",
   "lastOpenFiles": [
     "源码阅读学习/Jackson/Jackson源码阅读.md",
     "源码阅读学习/Jackson",
