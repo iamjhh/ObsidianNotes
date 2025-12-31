@@ -11,14 +11,10 @@
             "id": "16819d36f0500dc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "源码阅读学习/Jackson/Jackson源码阅读.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Jackson源码阅读"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "源码阅读学习/Jackson/Jackson源码阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Jackson源码阅读 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "源码阅读学习/Jackson/Jackson源码阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Jackson源码阅读 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -194,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d98db8d0b4a9b928",
+  "active": "d028e77cea5727e4",
   "lastOpenFiles": [
     "源码阅读学习/Jackson/Jackson源码阅读.md",
     "源码阅读学习/Jackson",
